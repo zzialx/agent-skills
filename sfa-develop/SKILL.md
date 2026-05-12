@@ -33,7 +33,7 @@ metadata:
 ## 使用脚本（用于一致性校验）
 
 ```bash
-python3 .trae/skills/sfa-develop/scripts/boundary.py "<用户原始问题>"
+python3 scripts/boundary.py "<用户原始问题>"
 ```
 
 脚本输出 `ALLOW` 或 `BLOCK`，以及 JSON 结果。若为 `BLOCK`，则必须返回固定拒答语；若为 `ALLOW`，则正常回答。
