@@ -1,9 +1,9 @@
 ---
-name: "SFA-Develop-Skill"
+name: "sfa-develop"
 description: "控制开发智能体边界：仅回答代码开发问题与客户频道转发的 bug。Invoke when 需要判断问题是否属于开发范围并控制输出。"
 ---
 
-# SFA-Develop-Skill
+# sfa-develop
 
 ## 目标
 
